@@ -4,7 +4,7 @@ In our rapidly evolving digital age, it's clear that technology has ingrained it
 
 ## Perspectives on EdTech
 
-With research suggesting that digital learning tools can considerably [increase student success](/xedublog/ttps://www.sciencedirect.com/science/article/pii/S0360131512002254), technology in classrooms is becoming more prevalent. However, this [digital transformation](/xedublog/digital-transformation/keeping-up-with-rapid-technological-changes.html) also brings concerns. Cyberbullying, privacy issues, and extended screen time are perils associated with increased tech usage. From our [previous discussions](/xedublog/digital-transformation/the-challenge-of-screen-time-in-modern-learning.html) on these topics, we've learned that regulating usage is key.
+With research suggesting that digital learning tools can considerably [increase student success](https://www.sciencedirect.com/science/article/pii/S0360131512002254), technology in classrooms is becoming more prevalent. However, this [digital transformation](/xedublog/digital-transformation/keeping-up-with-rapid-technological-changes.html) also brings concerns. Cyberbullying, privacy issues, and extended screen time are perils associated with increased tech usage. From our [previous discussions](/xedublog/digital-transformation/the-challenge-of-screen-time-in-modern-learning.html) on these topics, we've learned that regulating usage is key.
 
 ## Navigating the e-Learning Landscape
 
