@@ -6,7 +6,7 @@ Our conventional educational system is known for its high focus on goal-oriented
 
 While consistency is crucial in education, it is equally important to allow learners to take breaks and enjoy some downtime. From my experience with newborns and primary school children, I've noticed that breaks help in various ways. They can reduce stress and prevent burnout, improve concentration levels, and enhance overall learning productivity. This aligns with [an article](https://www.frontiersin.org/articles/10.3389/fpsyg.2011.00282/full) published in the Journal of Frontiers in Psychology, which shows that cognitive functioning decreases during continuous tasks and that short breaks can counteract this decrease.
 
-Moreover, taking breaks enhances creative thinking. A well-rested brain is more flexible and can create unique connections between ideas, leading to innovative problem-solving capabilities. It is also important to know how these breaks should be structured, such as reducing screen time and encouraging physical activity during these periods, as detailed in our previous post [The Challenge of Screen Time in Modern Learning](/xedublogdigital-transformation/the-challenge-of-screen-time-in-modern-learning.md).
+Moreover, taking breaks enhances creative thinking. A well-rested brain is more flexible and can create unique connections between ideas, leading to innovative problem-solving capabilities. It is also important to know how these breaks should be structured, such as reducing screen time and encouraging physical activity during these periods, as detailed in our previous post [The Challenge of Screen Time in Modern Learning](/xedublog/digital-transformation/the-challenge-of-screen-time-in-modern-learning.md).
 
 ## Understanding the Summer Slide
 
@@ -18,11 +18,11 @@ While two months without any educational activity is risky, it doesn't advocate 
 
 Holidays are a great opportunity to foster the holistic development of your child. Here are few strategies to implement:
 
-- **Incorporate Informal Educational Activities:** Take your child to museums, wildlife safaris, etc. As we said [The Importance of Real-World Learning Experiences](/xedublogexperiential-learning/the-importance-of-real-world-learning-experiences.md), these not only create memories but also enrich their understanding of the world.
+- **Incorporate Informal Educational Activities:** Take your child to museums, wildlife safaris, etc. As we said [The Importance of Real-World Learning Experiences](/xedublog/experiential-learning/the-importance-of-real-world-learning-experiences.md), these not only create memories but also enrich their understanding of the world.
 
-- **Encourage Reading:** While reading should be a year-round habit, it's particularly beneficial during breaks. Encourage your kids to choose their preferred books ranging from fiction, nonfiction, history to science. For more information, check out [The Role of literature in Developing Empathy and Worldview](/xedublogholistic-development/the-role-of-literature-in-developing-empathy-and-worldview.md).
+- **Encourage Reading:** While reading should be a year-round habit, it's particularly beneficial during breaks. Encourage your kids to choose their preferred books ranging from fiction, nonfiction, history to science. For more information, check out [The Role of literature in Developing Empathy and Worldview](/xedublog/holistic-development/the-role-of-literature-in-developing-empathy-and-worldview.md).
 
-- **Participate in Summer Camps:** Consider enrolling your children in summer camps that focus on arts, sports, or even coding. Benefits of these camps are perfectly summarized in [The Role of Summer Camps in Skill Development](/xedublogholistic-development/the-role-of-summer-camps-in-skill-development.md).
+- **Participate in Summer Camps:** Consider enrolling your children in summer camps that focus on arts, sports, or even coding. Benefits of these camps are perfectly summarized in [The Role of Summer Camps in Skill Development](/xedublog/holistic-development/the-role-of-summer-camps-in-skill-development.md).
 
 - **Involve in Household Activities:** Involve them in cooking, gardening, or even budgeting. Doing so provides them with valuable life-skills that are often overlooked in traditional schooling.
 

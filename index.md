@@ -1,4 +1,4 @@
-# XEduBlog 
+# xedublog/ 
 
 ## [The Overlooked Importance of Life Skills in Curriculum](/education-fundamentals/the-overlooked-importance-of-life-skills-in-curriculum.md)
 

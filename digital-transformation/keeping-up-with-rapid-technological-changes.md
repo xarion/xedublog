@@ -5,7 +5,7 @@ tags: ['EdTech', 'DigitalLearning']
 
 ---
 
-In this fast-paced world, technology is quickly becoming an integral part in our daily lives. More significantly, it has entered our classrooms, transforming the way our children learn. As a result, many parents feel overwhelmed by this rapid shift, struggling to keep up with the continuously evolving digital learning landscape. This post aims to explore the changes, address your concerns, and provide actionable insights to help you support your child's digital learning journey(/xedublogefer to our post on [the role of technology in modern education](/xedublog/digital-transformation/the-role-of-technology-in-modern-education.md)).
+In this fast-paced world, technology is quickly becoming an integral part in our daily lives. More significantly, it has entered our classrooms, transforming the way our children learn. As a result, many parents feel overwhelmed by this rapid shift, struggling to keep up with the continuously evolving digital learning landscape. This post aims to explore the changes, address your concerns, and provide actionable insights to help you support your child's digital learning journey(/xedublog/efer to our post on [the role of technology in modern education](/xedublog/digital-transformation/the-role-of-technology-in-modern-education.md)).
 
 ## Understanding the Digital Transformation
 
@@ -21,7 +21,7 @@ As we discussed in our post on [building bridges with teachers through communica
 
 ## Balance Screen Time 
 
-With increased digital learning comes the challenge of managing screen time. It's crucial to strike a balance to prevent negative health effects (/xedublogefer to [the challenge of screen time in modern learning](/xedublog/digital-transformation/the-challenge-of-screen-time-in-modern-learning.md)). Incorporate regular breaks, promote physical activity, and encourage offline hobbies to offset time spent with technology.
+With increased digital learning comes the challenge of managing screen time. It's crucial to strike a balance to prevent negative health effects (/xedublog/efer to [the challenge of screen time in modern learning](/xedublog/digital-transformation/the-challenge-of-screen-time-in-modern-learning.md)). Incorporate regular breaks, promote physical activity, and encourage offline hobbies to offset time spent with technology.
 
 ## Online Safety 
 

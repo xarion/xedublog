@@ -30,7 +30,7 @@ While you champion for emotional intelligence in your children's schools, start 
 
 ***
 
-In conclusion, this push for a more inclusive, emotionally intelligent system will not be rapid or easy. However, the long-term benefits that emotionally aware students bring to society make the challenge worthwhile. For further reading, take a look at our [post on the role of literature in developing empathy and worldview](/xedublogholistic-development/the-role-of-literature-in-developing-empathy-and-worldview.md).
+In conclusion, this push for a more inclusive, emotionally intelligent system will not be rapid or easy. However, the long-term benefits that emotionally aware students bring to society make the challenge worthwhile. For further reading, take a look at our [post on the role of literature in developing empathy and worldview](/xedublog/holistic-development/the-role-of-literature-in-developing-empathy-and-worldview.md).
 
 Remember, as parents, you play an integral role in enhancing your child's emotional intelligence. Your involvement can give your children the emotional toolkit they need to navigate the world more effectively.
 ```

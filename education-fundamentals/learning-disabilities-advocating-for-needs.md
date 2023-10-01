@@ -21,7 +21,7 @@ When advocating for your child, remember to:
 
 * **Seek assistance and resources** from community support systems, mentorship programs, and local resources as discussed [here](/xedublog/community-engagement/the-role-of-community-in-supporting-struggling-students.md).
 
-* **Adopt and adapt alternative educational models,** such as Montessori or homeschooling if they better fit your child's needs (/xedublogdiscussed previously](/xedublog/education-fundamentals/alternative-education-models-homeschooling.md)).
+* **Adopt and adapt alternative educational models,** such as Montessori or homeschooling if they better fit your child's needs (/xedublog/discussed previously](/xedublog/education-fundamentals/alternative-education-models-homeschooling.md)).
 
 ## Supporting Your Child at Home
 Support is an essential part of the journey for children with learning disabilities. Parents can help by 

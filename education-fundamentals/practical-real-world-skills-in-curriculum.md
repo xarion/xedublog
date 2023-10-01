@@ -26,7 +26,7 @@ Extra-curricular activities, as we discussed in ["The Role of Extracurricular Ac
 
 ### Foster a Growth Mindset
 
-As explored in ["The Challenge of Instilling a Growth Mindset in Students"](/xedubloghe-challenge-of-instilling-a-growth-mindset-in-students.md), promoting a growth mindset at home can teach your child the importance of perseverance, embracing challenges, and learning from failure. 
+As explored in ["The Challenge of Instilling a Growth Mindset in Students"](/xedublog/he-challenge-of-instilling-a-growth-mindset-in-students.md), promoting a growth mindset at home can teach your child the importance of perseverance, embracing challenges, and learning from failure. 
 
 ### Promote Real-World Learning Experiences
 

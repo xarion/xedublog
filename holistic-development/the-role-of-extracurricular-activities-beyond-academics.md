@@ -10,7 +10,7 @@ Extracurricular activities are an often-underestimated component of a child’s 
 
 Moreover, the benefits go beyond academics as these activities provide room for personality development, building resilience, fostering creativity, and imbibing valuable life skills such as teamwork, responsibility, time management, and critical thinking, which are not always addressed in classroom lectures. 
 
-In our previous posts, we have extensively covered the [overlooked importance of life skills in curriculum](/xedublogeducation-fundamentals/the-overlooked-importance-of-life-skills-in-curriculum.md), [the need for emotional intelligence in education](/holistic-development/the-push-for-emotional-intelligence-in-education.md), and [the importance of practical real-world skills in curriculum](/education-fundamentals/practical-real-world-skills-in-curriculum.md). Extracurricular activities, with their multifaceted benefits, act as crucial facilitators for these.
+In our previous posts, we have extensively covered the [overlooked importance of life skills in curriculum](/xedublog/education-fundamentals/the-overlooked-importance-of-life-skills-in-curriculum.md), [the need for emotional intelligence in education](/holistic-development/the-push-for-emotional-intelligence-in-education.md), and [the importance of practical real-world skills in curriculum](/education-fundamentals/practical-real-world-skills-in-curriculum.md). Extracurricular activities, with their multifaceted benefits, act as crucial facilitators for these.
 
 ## Finding Meaningful Activities
 
@@ -27,7 +27,7 @@ Also, remember that the benefits of extracurricular activities are independent o
 ---
 The education system may have its lapses, but as parents, we have the capability to supplement our child's development in a wholesome manner. By encouraging a balanced participation in extracurricular activities, we can ensure they garner skills and values that will help them outside the classroom walls, fostering well-rounded, confident, and capable individuals.
 
-In the end, the essence of education lies in the holistic development of a child, striking a healthy balance between academics and beyond. By integrating the insights we provide in our various posts such as the [role of unstructured playtime](/xedublogholistic-development/the-role-of-play-why-unstructured-time-matters.md), [addressing special educational needs](/education-fundamentals/the-challenge-of-addressing-special-educational-needs.md), and [the importance of multilingual education](/skill-development/the-importance-of-multilingual-education.md), you can ensure that your child matures into a well-rounded individual, ready to face the world confidently.
+In the end, the essence of education lies in the holistic development of a child, striking a healthy balance between academics and beyond. By integrating the insights we provide in our various posts such as the [role of unstructured playtime](/xedublog/holistic-development/the-role-of-play-why-unstructured-time-matters.md), [addressing special educational needs](/education-fundamentals/the-challenge-of-addressing-special-educational-needs.md), and [the importance of multilingual education](/skill-development/the-importance-of-multilingual-education.md), you can ensure that your child matures into a well-rounded individual, ready to face the world confidently.
 
 ---
 If you want to discuss more on any particular topic, feel free to drop a comment. Stay tuned for our next discussion on 'The Challenge of Large Classroom Sizes'. Until then, happy parenting!

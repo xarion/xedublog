@@ -8,7 +8,7 @@ Living in a globalized world, it is crucial for our young ones to develop empath
 
 ## What Role Does Literature Play?
 
-Storybooks offer a window into other people's lives, cultures, and experiences, providing children a safe haven to explore, question, and understand the world. They experience different realities, empathize with characters, and subsequently broaden their worldviews. As detailed in our previous post on the [Importance of Multilingual Education](/xedublogskill-development/the-importance-of-multilingual-education.md), literature also exposes children to different languages, fostering multilingual competency from a young age.
+Storybooks offer a window into other people's lives, cultures, and experiences, providing children a safe haven to explore, question, and understand the world. They experience different realities, empathize with characters, and subsequently broaden their worldviews. As detailed in our previous post on the [Importance of Multilingual Education](/xedublog/skill-development/the-importance-of-multilingual-education.md), literature also exposes children to different languages, fostering multilingual competency from a young age.
 
 ## How to Create a Diverse Reading List
 
@@ -22,11 +22,11 @@ As parents, you have the power to shape your child's reading habits. Here are so
 
 4. **Choose Characters from Different Life Experiences**:  Choosing stories featuring characters with different life experiences helps children foster empathy, as they start to recognize and understand other’s feelings and situations.
 
-5. **Include Multi-Lingual Books**: As discussed in our previous post on [Multilingual Education](/xedublogskill-development/the-importance-of-multilingual-education.md), learning different languages has cognitive and cultural benefits.
+5. **Include Multi-Lingual Books**: As discussed in our previous post on [Multilingual Education](/xedublog/skill-development/the-importance-of-multilingual-education.md), learning different languages has cognitive and cultural benefits.
 
 ## Previous Researches and Posts
 
-It is vital to recognize the importance of literature in a child's holistic development, fostering empathy, and providing a broader worldview. This complements our [post on the importance of Emotional Intelligence in education](/xedublogholistic-development/the-push-for-emotional-intelligence-in-education.md) and supports the [Discussions on Ethics and Morality in Modern Education](/education-fundamentals/ethics-and-morality-in-modern-education.md).
+It is vital to recognize the importance of literature in a child's holistic development, fostering empathy, and providing a broader worldview. This complements our [post on the importance of Emotional Intelligence in education](/xedublog/holistic-development/the-push-for-emotional-intelligence-in-education.md) and supports the [Discussions on Ethics and Morality in Modern Education](/education-fundamentals/ethics-and-morality-in-modern-education.md).
 
 Research indicates that schools promoting an integrated, whole-child approach to education produce students who are more engaged, empathetic, and understanding. Literature, by nature, encourages the development of these traits. Subsequently, there is an accelerating push for more diverse, inclusive literature in school curriculums across the nation.
 

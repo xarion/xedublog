@@ -25,7 +25,7 @@ Technology can be a powerful tool for inculcating learning during breaks. The ne
 
 ## Handling the Homework Load
 
-A substantial academic load can transform relaxation into stress. Our previous blog post on [managing the stress of homework](/xedublogmodern-challenges/the-stress-of-homework-balancing-work-and-play.md) holds some potential solutions. Remember, breaks needn't always mean a pause from learning. They are avenues for a different kind of learning – life skills, problem-solving, adaptability, and innovation.
+A substantial academic load can transform relaxation into stress. Our previous blog post on [managing the stress of homework](/xedublog/modern-challenges/the-stress-of-homework-balancing-work-and-play.md) holds some potential solutions. Remember, breaks needn't always mean a pause from learning. They are avenues for a different kind of learning – life skills, problem-solving, adaptability, and innovation.
 
 ## In a Nutshell
 
@@ -34,6 +34,6 @@ Striking a balance between learning and breaks can make education an enriching j
 Lastly, remember that each child is unique with varying mental absorbance rates [^4^]. Patience, understanding and flexibility should be the three pillars of your approach. 
 
 [^1^]: Daniel J. Levitin, 'Why the modern world is bad for your brain', The Guardian, January 18, 2015. 
-[^2^]: [The role of summer camps in skill development](/xedublogholistic-development/the-role-of-summer-camps-in-skill-development.md)
-[^3^]: [The challenge of screen-time in modern learning](/xedublogdigital-transformation/the-challenge-of-screen-time-in-modern-learning.md)
-[^4^]: [Addressing special educational needs](/xedublogeducation-fundamentals/the-challenge-of-addressing-special-educational-needs.md)
+[^2^]: [The role of summer camps in skill development](/xedublog/holistic-development/the-role-of-summer-camps-in-skill-development.md)
+[^3^]: [The challenge of screen-time in modern learning](/xedublog/digital-transformation/the-challenge-of-screen-time-in-modern-learning.md)
+[^4^]: [Addressing special educational needs](/xedublog/education-fundamentals/the-challenge-of-addressing-special-educational-needs.md)

@@ -34,4 +34,4 @@ Modern libraries have transformed themselves to keep pace with changing educatio
 
 We have covered various facet of modern education in other blog posts. Feel free to explore and read more on these topics.
 
-For more blog posts on prevalent educational issues, solutions, and discussions, head over to [our blog hub](/xedublog) covering myriad topics like [the Role of Community in Supporting Struggling Students](/xedublog/community-engagement/the-role-of-community-in-supporting-struggling-students.md) or the [Challenge of Large Classroom Sizes](/xedublog/modern-challenges/the-challenge-of-large-classroom-sizes.md) among many others.
+For more blog posts on prevalent educational issues, solutions, and discussions, head over to [our blog hub](/xedublog/) covering myriad topics like [the Role of Community in Supporting Struggling Students](/xedublog/community-engagement/the-role-of-community-in-supporting-struggling-students.md) or the [Challenge of Large Classroom Sizes](/xedublog/modern-challenges/the-challenge-of-large-classroom-sizes.md) among many others.
