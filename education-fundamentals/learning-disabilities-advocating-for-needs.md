@@ -17,11 +17,11 @@ Parents are their child's primary advocates, especially if their child has speci
 
 When advocating for your child, remember to:
 
-* **Collaborate with teachers in your child's learning process.** Our past discussions on [building bridges with teachers](/v2/parental-engagement/teacher-parent-communication-building-a-bridge.md)) emphasize the need for open communication between educators and parents.
+* **Collaborate with teachers in your child's learning process.** Our past discussions on [building bridges with teachers](/xedublogv2/parental-engagement/teacher-parent-communication-building-a-bridge.md)) emphasize the need for open communication between educators and parents.
 
-* **Seek assistance and resources** from community support systems, mentorship programs, and local resources as discussed [here](/v2/community-engagement/the-role-of-community-in-supporting-struggling-students.md).
+* **Seek assistance and resources** from community support systems, mentorship programs, and local resources as discussed [here](/xedublogv2/community-engagement/the-role-of-community-in-supporting-struggling-students.md).
 
-* **Adopt and adapt alternative educational models,** such as Montessori or homeschooling if they better fit your child's needs ([discussed previously](/v2/education-fundamentals/alternative-education-models-homeschooling.md)).
+* **Adopt and adapt alternative educational models,** such as Montessori or homeschooling if they better fit your child's needs (/xedublogdiscussed previously](/v2/education-fundamentals/alternative-education-models-homeschooling.md)).
 
 ## Supporting Your Child at Home
 Support is an essential part of the journey for children with learning disabilities. Parents can help by 

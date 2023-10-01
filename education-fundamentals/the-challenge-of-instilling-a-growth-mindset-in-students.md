@@ -24,7 +24,7 @@ As parents, you are in a unique position to promote a growth mindset, but doing 
 
 5. **Model a Growth Mindset:** Remember, children learn by observing. Show them how you face challenges, handle setbacks, and learn new things. Express your excitement about learning and the joy of discovery.
 
-As we plead for a change in the general thinking within our education system, we must also remember this often-overlooked dimension of the learning process. For parents who want to delve deeper into related issues, you can browse previous articles from categories like [Education Fundamentals](/education-fundamentals/) and [Holistic Development](/holistic-development/). The pieces on the [role of literature in developing empathy and worldview](/v2/holistic-development/the-role-of-literature-in-developing-empathy-and-worldview.md) and the [importance of extracurricular activities beyond academics](/v2/holistic-development/the-role-of-extracurricular-activities-beyond-academics.md) offer valuable insights. 
+As we plead for a change in the general thinking within our education system, we must also remember this often-overlooked dimension of the learning process. For parents who want to delve deeper into related issues, you can browse previous articles from categories like [Education Fundamentals](/xedublogeducation-fundamentals/) and [Holistic Development](/holistic-development/). The pieces on the [role of literature in developing empathy and worldview](/v2/holistic-development/the-role-of-literature-in-developing-empathy-and-worldview.md) and the [importance of extracurricular activities beyond academics](/v2/holistic-development/the-role-of-extracurricular-activities-beyond-academics.md) offer valuable insights. 
 
 ### Conclusion
 

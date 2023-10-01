@@ -6,13 +6,13 @@ As a seasoned educational scientist with a background in teaching both newborns 
 
 Environmental education is not just about introducing children to the idea of nature or the names of animals and plants. It is about fostering a holistic understanding of our planet—its ecosystems, human impacts on these systems, and ways to mitigate them. The ultimate goal is to raise future citizens who are environmentally literate.
 
-Numerous studies, such as the one highlighted in our previous post [The Role of Extracurricular Activities Beyond Academics](/v2/holistic-development/the-role-of-extracurricular-activities-beyond-academics.md), indicate that exposure to natural surroundings and the associated activities can significantly contribute to children's cognitive, emotional, and social development.
+Numerous studies, such as the one highlighted in our previous post [The Role of Extracurricular Activities Beyond Academics](/xedublogv2/holistic-development/the-role-of-extracurricular-activities-beyond-academics.md), indicate that exposure to natural surroundings and the associated activities can significantly contribute to children's cognitive, emotional, and social development.
 
 ## Why It Matters Now More Than Ever 
 
 In an age of climate crises and mass extinctions, it has become imperative for children to grow up with an in-depth understanding of the world around them. We need a generation that is not just aware of the problems but also equipped with the necessary skills to address them.
 
-As I have pointed out in [Ethics and Morality in Modern Education](/v2/education-fundamentals/ethics-and-morality-in-modern-education.md), teaching children about the environment imbues them with a sense of stewardship and empathy not just towards fellow human beings, but also towards the earth.
+As I have pointed out in [Ethics and Morality in Modern Education](/xedublogv2/education-fundamentals/ethics-and-morality-in-modern-education.md), teaching children about the environment imbues them with a sense of stewardship and empathy not just towards fellow human beings, but also towards the earth.
 
 ## How Parents Can Help
 
@@ -20,7 +20,7 @@ As I have pointed out in [Ethics and Morality in Modern Education](/v2/education
 
 As simple as it may sound, encouraging children to spend more time outdoors is an incredibly effective way to start. Let them explore the backyard, observe trees, insects, birds, or even the clouds—helping them connect directly with nature.
 
-Also, consider enrolling your kids in outdoor camps or programs, as we discussed in [The Role of Summer Camps in Skill Development](/v2/holistic-development/the-role-of-summer-camps-in-skill-development.md), which provide not only recreational value but deep environmental education as well.
+Also, consider enrolling your kids in outdoor camps or programs, as we discussed in [The Role of Summer Camps in Skill Development](/xedublogv2/holistic-development/the-role-of-summer-camps-in-skill-development.md), which provide not only recreational value but deep environmental education as well.
 
 ### Foster a Conscious Lifestyle 
 
@@ -32,6 +32,6 @@ Refer to online resources designed specifically for young learners that teach th
   
 ## Bridging the Gap in Our Education System
 
-There is no doubt that schools play an essential role in environmental education. However, with an already packed curriculum, you may find environmental studies not getting the importance it deserves in the academic schedule, as per our discussion on [Practical Real-world Skills in Curriculum](/v2/education-fundamentals/practical-real-world-skills-in-curriculum.md).
+There is no doubt that schools play an essential role in environmental education. However, with an already packed curriculum, you may find environmental studies not getting the importance it deserves in the academic schedule, as per our discussion on [Practical Real-world Skills in Curriculum](/xedublogv2/education-fundamentals/practical-real-world-skills-in-curriculum.md).
 
 As parents, it falls upon us to initiate and sustain environmental learning beyond the schools. And remember, it isn't about burdening your children with the weight of the world. It's about igniting curiosity, fostering an understanding, and encouraging an attitude of care towards our planet. By integrating environmental education seamlessly into their daily lives, we will be able to raise a generation ready to take on the sustainability challenge.

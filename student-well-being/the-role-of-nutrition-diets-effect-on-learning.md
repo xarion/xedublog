@@ -9,7 +9,7 @@ The continuous growth during early childhood requires a diet filled with essenti
 
 Moreover, nutritional deficiencies in early life can lead to reduced cognitive abilities, slower language and fine motor development, behavioural problems, and lower IQ in later life ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3738995/)).
 
-In consonance with this topic, one of our previous posts ["The Importance of Breaks and Downtime in the Learning Process"](./importance-of-breaks-and-downtime-in-the-learning-process.md) shares a complementary philosophy by highlighting the essence of downtime for cognitive recovery.
+In consonance with this topic, one of our previous posts ["The Importance of Breaks and Downtime in the Learning Process"](/xedublog/importance-of-breaks-and-downtime-in-the-learning-process.md) shares a complementary philosophy by highlighting the essence of downtime for cognitive recovery.
 
 ## **Creating a Brain-Boosting Diet: Practical Tips**
 
@@ -37,4 +37,4 @@ Parents can also do their part by building a supportive home environment where b
 
 Nutrition is a critical component in a child's development and has a profound impact on their learning journey. By appreciating the significant role of nutrition and encouraging healthy food choices, we can provide children with the fuel they need for optimal cognitive performance.
 
-_For more discussions on this topic, we encourage you to read our post ["The Role of Play: Why Unstructured Time Matters"](./the-role-of-play-why-unstructured-time-matters.md), where we highlight the cognitive and emotional benefits of unstructured playtime._
+_For more discussions on this topic, we encourage you to read our post ["The Role of Play: Why Unstructured Time Matters"](/xedublog/the-role-of-play-why-unstructured-time-matters.md), where we highlight the cognitive and emotional benefits of unstructured playtime._

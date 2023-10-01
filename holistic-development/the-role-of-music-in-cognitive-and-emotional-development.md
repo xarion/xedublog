@@ -23,7 +23,7 @@ From enhancing memory to bolstering creativity, the positive effects of music ed
 - Cognitive Development: Just as language, music is a form of communication that requires decoding and understanding. This intellectual exercise leads to a cognitive boost, enhancing memory [^1^].
 - Emotional Development: Music serves as a medium for emotional expression and regulation, aiding in developing emotional intelligence [^2^].
 
-This aligns with our earlier discussions on [the push for emotional intelligence in education](/holistic-development/the-push-for-emotional-intelligence-in-education.md) and [the role of drama and theater in personality development](/holistic-development/the-role-of-drama-and-theater-in-personality-development.md).
+This aligns with our earlier discussions on [the push for emotional intelligence in education](/xedublogholistic-development/the-push-for-emotional-intelligence-in-education.md) and [the role of drama and theater in personality development](/holistic-development/the-role-of-drama-and-theater-in-personality-development.md).
 
 --- 
 
@@ -48,4 +48,4 @@ Music education isn't an adjunct or an optional indulgence. Rather, it's an inte
 
 ---
 
-We hope this post brings clarity to the conversation around music education. Stay tuned as we continue to explore topics like [the challenge of screen time in modern learning](/digital-transformation/the-challenge-of-screen-time-in-modern-learning.md) and [the importance of physical education](/holistic-development/the-importance-of-physical-education-in-schools.md). If you want to learn more about the cognitive and emotional benefits of holistic approaches, check out our previous discussions on [the role of play](/holistic-development/the-role-of-play-why-unstructured-time-matters.md) and [the role of literature](/holistic-development/the-role-of-literature-in-developing-empathy-and-worldview.md). Let's continue to reimagine and reinvent education that cultivates our children's unique gifts and abilities.
+We hope this post brings clarity to the conversation around music education. Stay tuned as we continue to explore topics like [the challenge of screen time in modern learning](/xedublogdigital-transformation/the-challenge-of-screen-time-in-modern-learning.md) and [the importance of physical education](/holistic-development/the-importance-of-physical-education-in-schools.md). If you want to learn more about the cognitive and emotional benefits of holistic approaches, check out our previous discussions on [the role of play](/holistic-development/the-role-of-play-why-unstructured-time-matters.md) and [the role of literature](/holistic-development/the-role-of-literature-in-developing-empathy-and-worldview.md). Let's continue to reimagine and reinvent education that cultivates our children's unique gifts and abilities.

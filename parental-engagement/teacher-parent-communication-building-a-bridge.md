@@ -34,12 +34,12 @@ Participating in school events and volunteering in classrooms or field trips can
 #### Communicate Concerns Respectfully
 Children could face challenges in school. Expressing your concerns about these issues respectfully and constructively can lead to solutions that benefit your child.
 
-In a previous post, [The Importance of Parental Involvement in Education](/parental-engagement/the-impact-of-parental-involvement-in-education.md), we explored other strategies for active parental engagement, which complements effective communication with teachers.
+In a previous post, [The Importance of Parental Involvement in Education](/xedublogparental-engagement/the-impact-of-parental-involvement-in-education.md), we explored other strategies for active parental engagement, which complements effective communication with teachers.
 
 ## Ending Note
 
 Remember, parents and teachers share a common goal – to foster the best possible learning environment for the child. In this endeavor, open communication binds parents and teachers together in the child's academic journey.
 
-For more insights on pressing educational issues, explore other [articles](/) on our blog, like [The Challenge of Addressing Special Educational Needs](/education-fundamentals/the-challenge-of-addressing-special-educational-needs.md) and [The Importance of Real-World Learning Experiences](/experiential-learning/the-importance-of-real-world-learning-experiences.md). 
+For more insights on pressing educational issues, explore other [articles](/xedublog) on our blog, like [The Challenge of Addressing Special Educational Needs](/education-fundamentals/the-challenge-of-addressing-special-educational-needs.md) and [The Importance of Real-World Learning Experiences](/experiential-learning/the-importance-of-real-world-learning-experiences.md). 
 
 By effectively bridging the communication gap, we can help our children move closer to academic success and overall well-being.

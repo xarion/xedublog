@@ -22,7 +22,7 @@ However, the challenge remains: How do we make history not just informative but 
 
 4. **Encourage Critical Thinking:** Ask your child probing questions about historical events and figures. Encourage them to form their opinions based on evidence rather than accepting facts blindly. Let them challenge standard narratives and foster their thinking abilities. 
 
-Here is a **[link](/v2/education-fundamentals/the-challenge-of-instilling-a-growth-mindset-in-students.md)** from our previous post that will give you an insight into fostering growth mindset in your child.
+Here is a **[link](/xedublogv2/education-fundamentals/the-challenge-of-instilling-a-growth-mindset-in-students.md)** from our previous post that will give you an insight into fostering growth mindset in your child.
 
 Understanding history is like putting on magic glasses that make invisible connections visible. It develops inquisitive, thoughtful, and knowledgeable students, or, in other words - critical thinkers and informed citizens. History isn't just about what happened; it's about understanding why it happened and what it means for us today. So, keep history alive for your child by making it engaging and significant.
 
