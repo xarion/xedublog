@@ -1,12 +1,12 @@
 # The Role of Art in Fostering Creativity and Expression
 
-_Previous Post: [The importance of physical education in schools](/xedublog/holistic-development/the-importance-of-physical-education-in-schools.md)_
+_Previous Post: [The importance of physical education in schools](/xedublog/holistic-development/the-importance-of-physical-education-in-schools.html)_
 
 One of the primary concerns often voiced by parents is their unhappiness with the current education system's heavy focus on the academic aspect of learning. While core subjects like science, math, and language arts are indeed crucial for the cognitive development of children, it's important to remember that true education stretches far beyond just academics. In this post, we will specifically explore the significance of art education in developing creativity, self-expression, and critical thinking skills.
 
 ## Why Art Matters
 
-Art education should be considered an essential part of well-rounded learning. It encourages unique thought, impacts mood and self-esteem, and offers an avenue for self-expression. The [_importance of extracurricular activities beyond academics_](/xedublog/holistic-development/the-role-of-extracurricular-activities-beyond-academics.md) offers an insightful look at how these activities (including art) improve a child's leadership skills, teamwork, and soft skills.
+Art education should be considered an essential part of well-rounded learning. It encourages unique thought, impacts mood and self-esteem, and offers an avenue for self-expression. The [_importance of extracurricular activities beyond academics_](/xedublog/holistic-development/the-role-of-extracurricular-activities-beyond-academics.html) offers an insightful look at how these activities (including art) improve a child's leadership skills, teamwork, and soft skills.
 
 ## The Art of Self-expression 
 
@@ -28,10 +28,10 @@ Art not only enhances creativity but also has a significant impact on academic a
 
 ## The Future for Children in Art Education
 
-Art education bestows students with skills, knowledge, and mindset essential for the 21st-century workforce. It boosts innovation and creativity, which are highly sought after in various professions, from design to engineering. More on this can be found in our previous post on [_preparing students for the future job market_](/xedublog/modern-challenges/preparing-students-for-the-future-job-market.md).
+Art education bestows students with skills, knowledge, and mindset essential for the 21st-century workforce. It boosts innovation and creativity, which are highly sought after in various professions, from design to engineering. More on this can be found in our previous post on [_preparing students for the future job market_](/xedublog/modern-challenges/preparing-students-for-the-future-job-market.html).
 
 In conclusion, art education can play a vital role in providing a holistic education for our children. It's our responsibility as parents and educators to ensure that our children receive the benefits of art education, creating a balanced blend of academic and creative growth.
 
-_Next Post: [The challenge of cyberbullying in the digital age](/xedublog/modern-challenges/the-challenge-of-cyberbullying-in-the-digital-age.md)_
+_Next Post: [The challenge of cyberbullying in the digital age](/xedublog/modern-challenges/the-challenge-of-cyberbullying-in-the-digital-age.html)_
 
 Tags: #ArtEducation #Creativity #SelfExpression #HolisticDevelopment

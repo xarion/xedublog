@@ -6,7 +6,7 @@ As an educational scientist with years of expertise, #homework and its associate
 
 Children today are under enormous #AcademicPressure - driven by a constantly evolving and competitive world. Homework becomes a tangible representation of this pressure, often leading to anxiety, burnout, and reductions in family and leisure time.
 
-Are children getting enough playtime? Is the load of homework too heavy? As addressed in my post regarding [the importance of breaks and downtime in learning](/xedublog/student-well-being/importance-of-breaks-and-downtime-in-learning.md), research indicates that ample downtime and play significantly contribute to children's cognitive, emotional, and social development. 
+Are children getting enough playtime? Is the load of homework too heavy? As addressed in my post regarding [the importance of breaks and downtime in learning](/xedublog/student-well-being/importance-of-breaks-and-downtime-in-learning.html), research indicates that ample downtime and play significantly contribute to children's cognitive, emotional, and social development. 
 
 Overloading students with homework neither serves the intended purpose of education nor does it contribute positively to their well-being. It's essential for parents to understand this delicate equilibrium between work and play and support their children accordingly.
 
@@ -20,9 +20,9 @@ Balancing homework and play doesn't mean shunning homework altogether. It means 
 
 **3. Advocate for Your Child:** If your child's homework load feels overly burdensome, take your concerns to the teachers or school administrators. 
 
-**4. Encourage Hobby Time:** Make sure your child has time to engage in activities they love. As addressed in [the role of extracurricular activities beyond academics](/xedublog/holistic-development/the-role-of-extracurricular-activities-beyond-academics.md), involvement in hobbies or sports can hugely benefit a child's mental and emotional health.
+**4. Encourage Hobby Time:** Make sure your child has time to engage in activities they love. As addressed in [the role of extracurricular activities beyond academics](/xedublog/holistic-development/the-role-of-extracurricular-activities-beyond-academics.html), involvement in hobbies or sports can hugely benefit a child's mental and emotional health.
 
-The key here is to shift our perspective of homework as not merely a task to complete but an opportunity to learn. In my post on [the role of play and why unstructured time matters](/xedublog/holistic-development/the-role-of-play-why-unstructured-time-matters.md), I've discussed how integrating elements of play into learning can significantly reduce stress while enhancing creativity, enthusiasm, and retention.
+The key here is to shift our perspective of homework as not merely a task to complete but an opportunity to learn. In my post on [the role of play and why unstructured time matters](/xedublog/holistic-development/the-role-of-play-why-unstructured-time-matters.html), I've discussed how integrating elements of play into learning can significantly reduce stress while enhancing creativity, enthusiasm, and retention.
 
 ## Final Thoughts
 

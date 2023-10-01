@@ -4,7 +4,7 @@ Modern education demands an evolution in the way we perceive traditional educati
 
 ## Libraries as Collaborative Spaces
 
-Libraries are evolving into vibrant collaborative spaces where children can engage in group projects, brainstorming sessions, and interactive learning. These activities foster team spirit and communication skills among students. Read more about the significance of peer interaction in [our past post](/xedublog/social-dynamics/the-role-of-peer-interaction-in-social-development.md).
+Libraries are evolving into vibrant collaborative spaces where children can engage in group projects, brainstorming sessions, and interactive learning. These activities foster team spirit and communication skills among students. Read more about the significance of peer interaction in [our past post](/xedublog/social-dynamics/the-role-of-peer-interaction-in-social-development.html).
 
 #### Actionable Tips: 
 - Encourage your children to participate in group activities at the library. 
@@ -14,7 +14,7 @@ Libraries are evolving into vibrant collaborative spaces where children can enga
 
 Modern libraries provide access to digital resources such as online databases, e-books, multimedia material, and internet access. These digital resources allow children to delve deeper into subjects and acquire knowledge beyond textbooks.
 
-We've discussed the digital divide and how it affects learning in [another post](/xedublog/modern-challenges/addressing-the-digital-divide-ensuring-equal-access.md). Libraries can bridge this divide by offering equal access to digital resources.
+We've discussed the digital divide and how it affects learning in [another post](/xedublog/modern-challenges/addressing-the-digital-divide-ensuring-equal-access.html). Libraries can bridge this divide by offering equal access to digital resources.
 
 #### Actionable Tips:
 - Teach your child to use the digital resources at the library. 
@@ -22,7 +22,7 @@ We've discussed the digital divide and how it affects learning in [another post]
 
 ## Libraries as Community Centres 
 
-Libraries are increasingly serving as community centers that host educational events, workshops, seminars, and presentations. These initiatives often involve engagement with local experts, providing a platform for experiential learning. To delve deeper into the significance of real-world learning experiences, refer to [our previous post](/xedublog/experiential-learning/the-importance-of-real-world-learning-experiences.md).
+Libraries are increasingly serving as community centers that host educational events, workshops, seminars, and presentations. These initiatives often involve engagement with local experts, providing a platform for experiential learning. To delve deeper into the significance of real-world learning experiences, refer to [our previous post](/xedublog/experiential-learning/the-importance-of-real-world-learning-experiences.html).
 
 #### Actionable Tips: 
 - Keep an eye on the events calendar of your local library. 
@@ -34,4 +34,4 @@ Modern libraries have transformed themselves to keep pace with changing educatio
 
 We have covered various facet of modern education in other blog posts. Feel free to explore and read more on these topics.
 
-For more blog posts on prevalent educational issues, solutions, and discussions, head over to [our blog hub](/xedublog/) covering myriad topics like [the Role of Community in Supporting Struggling Students](/xedublog/community-engagement/the-role-of-community-in-supporting-struggling-students.md) or the [Challenge of Large Classroom Sizes](/xedublog/modern-challenges/the-challenge-of-large-classroom-sizes.md) among many others.
+For more blog posts on prevalent educational issues, solutions, and discussions, head over to [our blog hub](/xedublog/) covering myriad topics like [the Role of Community in Supporting Struggling Students](/xedublog/community-engagement/the-role-of-community-in-supporting-struggling-students.html) or the [Challenge of Large Classroom Sizes](/xedublog/modern-challenges/the-challenge-of-large-classroom-sizes.html) among many others.

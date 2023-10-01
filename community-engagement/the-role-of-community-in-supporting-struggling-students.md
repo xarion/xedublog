@@ -4,25 +4,25 @@ Educational science has proven that academic success is not exclusively built wi
 
 ## The Importance of a Supportive Community
 
-A loving, supportive community provides children with opportunities to learn, grow, and experience success outside the classroom. This could mean anything from a local library program to an after-school athletics club, or even a neighborhood study group. These environments encourage students to pursue their interests, challenge their abilities, strengthen their weaknesses, and learn how to interact positively with peers and adults. Let's [discuss](/xedublog/social-dynamics/the-role-of-peer-interaction-in-social-development.md) the significance of peer relationships and collaborative projects in fostering social skills and emotional intelligence.
+A loving, supportive community provides children with opportunities to learn, grow, and experience success outside the classroom. This could mean anything from a local library program to an after-school athletics club, or even a neighborhood study group. These environments encourage students to pursue their interests, challenge their abilities, strengthen their weaknesses, and learn how to interact positively with peers and adults. Let's [discuss](/xedublog/social-dynamics/the-role-of-peer-interaction-in-social-development.html) the significance of peer relationships and collaborative projects in fostering social skills and emotional intelligence.
 
-Moreover, the community's support provides struggling students with a sense of belonging, which can have a profound impact on their self-esteem and general happiness. A [post](/xedublog/parental-engagement/the-impact-of-parental-involvement-in-education.md) on our site highlights the positive effects of active parental involvement in child's education and provides strategies for effective engagement.
+Moreover, the community's support provides struggling students with a sense of belonging, which can have a profound impact on their self-esteem and general happiness. A [post](/xedublog/parental-engagement/the-impact-of-parental-involvement-in-education.html) on our site highlights the positive effects of active parental involvement in child's education and provides strategies for effective engagement.
 
 ## The Role of Mentorship Programs
 
-Mentorship programs are amongst the most effective community resources. These programs pair students with coaches or tutors who provide one-on-one guidance to help them overcome academic hurdles, discover and imbibe life skills, and etch out future career paths. In a [previous discussion](/xedublog/education-fundamentals/the-challenge-of-instilling-a-growth-mindset-in-students.md) we addressed the fixed vs. growth mindset debate, the importance of resilience and perseverance, and strategies parents can use to foster a growth mindset.
+Mentorship programs are amongst the most effective community resources. These programs pair students with coaches or tutors who provide one-on-one guidance to help them overcome academic hurdles, discover and imbibe life skills, and etch out future career paths. In a [previous discussion](/xedublog/education-fundamentals/the-challenge-of-instilling-a-growth-mindset-in-students.html) we addressed the fixed vs. growth mindset debate, the importance of resilience and perseverance, and strategies parents can use to foster a growth mindset.
 
 ## Harness Local Resources
 
-From libraries to local businesses, communities are rife with resources that can help students engage with real-world skills and applications. [Here](/xedublog/experiential-learning/the-importance-of-real-world-learning-experiences.md) we discuss the value of field trips, internships, and real-world experiences in enriching the educational journey and providing practical insights.
+From libraries to local businesses, communities are rife with resources that can help students engage with real-world skills and applications. [Here](/xedublog/experiential-learning/the-importance-of-real-world-learning-experiences.html) we discuss the value of field trips, internships, and real-world experiences in enriching the educational journey and providing practical insights.
 
-Many libraries have transformed into hubs of digital resources and collaborative learning. A [post](/xedublog/digital-transformation/the-evolving-role-of-libraries-in-modern-education.md) on our site elaborates on this evolution.
+Many libraries have transformed into hubs of digital resources and collaborative learning. A [post](/xedublog/digital-transformation/the-evolving-role-of-libraries-in-modern-education.html) on our site elaborates on this evolution.
 
 ## Role of Parents
 
 As parents, you are powerful advocates for your children's success. You can leverage the community resources, enlist in mentorship programs, and participate in organizing activities that support academic competency. It is essential to maintain open lines of communication with community leaders and other parents to foster a support network.
 
-Collaboration with teachers is also paramount. In a [previous blog post](/xedublog/parental-engagement/teacher-parent-communication-building-a-bridge.md), we provided tips on how parents can effectively communicate concerns and collaborate with teachers for their child's success.
+Collaboration with teachers is also paramount. In a [previous blog post](/xedublog/parental-engagement/teacher-parent-communication-building-a-bridge.html), we provided tips on how parents can effectively communicate concerns and collaborate with teachers for their child's success.
 
 ## Supporting Academic Growth
 

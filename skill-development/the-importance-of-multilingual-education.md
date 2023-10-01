@@ -25,9 +25,9 @@ As influential as school-based programs are, language acquisition does not solel
 
 The power and benefits of multilingual education should not be understated. In addition to improved cognitive abilities, multilingual individuals display greater empathy, adaptability, and problem-solving skills. Luckily, with some creativity, parents can foster multilingualism at home, adding to formal education and ensuring their child reaps these manifold benefits.
 
-For insights on how to balance relaxation and learning during vacations, don't forget to read our blog on the importance of [downtime in the learning process](/xedublog/student-well-being/the-importance-of-breaks-and-downtime-in-the-learning-process.md). 
+For insights on how to balance relaxation and learning during vacations, don't forget to read our blog on the importance of [downtime in the learning process](/xedublog/student-well-being/the-importance-of-breaks-and-downtime-in-the-learning-process.html). 
 
-Also, if you're interested in other ways to develop your child's skills, check out our post on [the impact of sports in physical and mental development](/xedublog/holistic-development/the-role-of-sports-in-physical-and-mental-development.md).
+Also, if you're interested in other ways to develop your child's skills, check out our post on [the impact of sports in physical and mental development](/xedublog/holistic-development/the-role-of-sports-in-physical-and-mental-development.html).
 
 _In the next post, we will be discussing the importance of active parental involvement in your child's education and how it can contribute significantly to their academic success. Stay tuned!_
 

@@ -10,7 +10,7 @@ If you are one of these parents, I am writing this blog post to tell you that th
 
 Homeschooling allows parents to tailor a child's education to their unique needs, interests, and learning style. A learning difficulty that may be overlooked in a traditional classroom setting can be given immediate attention in a homeschool setup.
 
-Moreover, homeschooling often allows for more flexibility, which can result in increased time for extracurricular activities. We discussed the benefits of this in the post ["The Role of Extracurricular Activities in Developing Beyond Academics"](/xedublog/ttps://yourwebsite.com/role-of-extracurricular-activities-beyond-academics.md).
+Moreover, homeschooling often allows for more flexibility, which can result in increased time for extracurricular activities. We discussed the benefits of this in the post ["The Role of Extracurricular Activities in Developing Beyond Academics"](/xedublog/ttps://yourwebsite.com/role-of-extracurricular-activities-beyond-academics.html).
 
 Parents, however, should consider their capacity to teach and the time commitment it requires before deciding to homeschool their child.
 
@@ -24,7 +24,7 @@ This method emphasizes hands-on, collaborative work, discourages traditional gra
 
 The Waldorf approach, built upon the philosophy of Rudolf Steiner, prioritizes integrative learning. It aims to develop not just a child's intellect but also their artistic, social, and practical skills.
 
-Art, music, dance, and crafts are integrated into academic instruction. Even math is taught artistically in this approach. To understand its benefits, you can check out the post ["The Role of Arts in Fostering Creativity and Expression"](/xedublog/ttps://yourwebsite.com/role-of-art-in-fostering-creativity-and-expression.md).
+Art, music, dance, and crafts are integrated into academic instruction. Even math is taught artistically in this approach. To understand its benefits, you can check out the post ["The Role of Arts in Fostering Creativity and Expression"](/xedublog/ttps://yourwebsite.com/role-of-art-in-fostering-creativity-and-expression.html).
 
 Bear in mind, however, that this method postpones introduction of academic content, including reading, until children are about seven years old.
 

@@ -20,7 +20,7 @@ Structured dramatic activities, be it story enactment, improvisation, puppetry, 
 
 2. **Critical Thinking and Creativity:** Conceiving an entire dramatic act from scriptwriting to final performance nurtures inventive thinking, stimulates imagination, and fosters problem-solving capabilities. This experience can range from designing costumes or sets to improvising a dialogue. Such activities can be further cultivated at home through art-based projects interwoven with storytelling aspects.
 
-3. **Academic Performance:** As a surprise to many, drama activities have been linked to improved academic performance. A comprehensive study from the **American Alliance for Theatre & Education** indicates that students involved in drama [outperform non-arts peers on standardized tests](/xedublog/education-fundamentals/the-debate-on-standardized-testing.md).
+3. **Academic Performance:** As a surprise to many, drama activities have been linked to improved academic performance. A comprehensive study from the **American Alliance for Theatre & Education** indicates that students involved in drama [outperform non-arts peers on standardized tests](/xedublog/education-fundamentals/the-debate-on-standardized-testing.html).
 
 ## Emotional Benefits of Drama and Theater
 
@@ -28,9 +28,9 @@ Beyond cognitive development, drama and theater significantly contribute to a ch
 
 1. **Self-confidence and Self-expression:** The theater serves as a safe space for children to express their emotions and ideas, which in turn fosters self-confidence. Even the shyest child often opens up on stage, discovering new facets of their personality. Parents can boost this confidence further by providing positive reinforcement and constructive feedback.
 
-2. **Empathy and Understanding:** By playing diverse characters, kids learn to perceive the world from different viewpoints, thereby instilling empathy and broadening their understanding of diverse societal issues. Reading diverse literature can [further foster empathy](/xedublog/holistic-development/the-role-of-literature-in-developing-empathy-and-worldview.md) among children.
+2. **Empathy and Understanding:** By playing diverse characters, kids learn to perceive the world from different viewpoints, thereby instilling empathy and broadening their understanding of diverse societal issues. Reading diverse literature can [further foster empathy](/xedublog/holistic-development/the-role-of-literature-in-developing-empathy-and-worldview.html) among children.
 
-3. **Resilience and Adaptability:** Theater is an unpredictable medium where anything can go amiss - a forgotten dialogue, a prop malfunction, or sudden stage fright. Navigating these challenges lends children resilience and adaptability – integral aspects of a growth mindset [we discussed earlier](/xedublog/education-fundamentals/the-challenge-of-instilling-a-growth-mindset-in-students.md).
+3. **Resilience and Adaptability:** Theater is an unpredictable medium where anything can go amiss - a forgotten dialogue, a prop malfunction, or sudden stage fright. Navigating these challenges lends children resilience and adaptability – integral aspects of a growth mindset [we discussed earlier](/xedublog/education-fundamentals/the-challenge-of-instilling-a-growth-mindset-in-students.html).
 
 ## Encouraging Drama and Theater at Home
 
@@ -40,15 +40,15 @@ Though our education system may overly stress 'traditional learning', it's cruci
 
 **Read More:** 
 
-- [The Importance of Physical Education in Schools](/xedublog/holistic-development/the-importance-of-physical-education-in-schools.md)
+- [The Importance of Physical Education in Schools](/xedublog/holistic-development/the-importance-of-physical-education-in-schools.html)
 
-- [The Role of Music in Cognitive and Emotional Development](/xedublog/holistic-development/the-role-of-music-in-cognitive-and-emotional-development.md)
+- [The Role of Music in Cognitive and Emotional Development](/xedublog/holistic-development/the-role-of-music-in-cognitive-and-emotional-development.html)
 
-- [The Role of Art in Fostering Creativity and Expression](/xedublog/holistic-development/the-role-of-art-in-fostering-creativity-and-expression.md)
+- [The Role of Art in Fostering Creativity and Expression](/xedublog/holistic-development/the-role-of-art-in-fostering-creativity-and-expression.html)
 
-- [The Importance of Vocational Training in Modern Education](/xedublog/skill-development/importance-of-vocational-training-in-modern-education.md)
+- [The Importance of Vocational Training in Modern Education](/xedublog/skill-development/importance-of-vocational-training-in-modern-education.html)
 
-- [The Impact of Parental Involvement in Education](/xedublog/parental-engagement/the-impact-of-parental-involvement-in-education.md)
+- [The Impact of Parental Involvement in Education](/xedublog/parental-engagement/the-impact-of-parental-involvement-in-education.html)
 
 Happy parenting!
 

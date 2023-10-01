@@ -10,7 +10,7 @@ Emotional intelligence – the ability to understand and manage one's emotions a
 
 Emotional intelligence is crucial for a student's success because, despite conventional emphasis on academic intelligence, emotional intelligence plays a major role in overall personal achievement. It facilitates better focus in the classroom, increased recruitment and job retention rates, and improved mental well-being. Studies show that it has a greater influence on success than other factors.
 
-Following up on our [previous post: The Overlooked Importance of Life Skills in Curriculum](/xedublog/education-fundamentals/the-overlooked-importance-of-life-skills-in-curriculum.md), it is evident that emotional intelligence, a critical life skill, should not remain overlooked in our curriculum.
+Following up on our [previous post: The Overlooked Importance of Life Skills in Curriculum](/xedublog/education-fundamentals/the-overlooked-importance-of-life-skills-in-curriculum.html), it is evident that emotional intelligence, a critical life skill, should not remain overlooked in our curriculum.
 
 ## Integrating Emotional Intelligence Into The Curriculum
 
@@ -30,7 +30,7 @@ While you champion for emotional intelligence in your children's schools, start 
 
 ***
 
-In conclusion, this push for a more inclusive, emotionally intelligent system will not be rapid or easy. However, the long-term benefits that emotionally aware students bring to society make the challenge worthwhile. For further reading, take a look at our [post on the role of literature in developing empathy and worldview](/xedublog/holistic-development/the-role-of-literature-in-developing-empathy-and-worldview.md).
+In conclusion, this push for a more inclusive, emotionally intelligent system will not be rapid or easy. However, the long-term benefits that emotionally aware students bring to society make the challenge worthwhile. For further reading, take a look at our [post on the role of literature in developing empathy and worldview](/xedublog/holistic-development/the-role-of-literature-in-developing-empathy-and-worldview.html).
 
 Remember, as parents, you play an integral role in enhancing your child's emotional intelligence. Your involvement can give your children the emotional toolkit they need to navigate the world more effectively.
 ```

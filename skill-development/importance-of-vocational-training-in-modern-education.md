@@ -13,7 +13,7 @@ Vocational training, also known as career or technical education, prepares learn
 
 Contrary to common perception, vocational careers are by no means 'lesser' than traditional college degrees. Many vocations offer competitive salaries and opportunities for career growth. Furthermore, vocational training provides practical skills that traditional academic courses may not, making it increasingly attractive in today's society.
 
-In the context of [The Overlooked Importance of Life Skills in Curriculum](/xedublog/education-fundamentals/the-overlooked-importance-of-life-skills-in-curriculum.md), vocational training bridges the gap between theory and practice. It also ties in with [Practical Real World Skills in Curriculum](/education-fundamentals/practical-real-world-skills-in-curriculum.md), where we discuss the importance of skills like problem-solving and adaptability. 
+In the context of [The Overlooked Importance of Life Skills in Curriculum](/xedublog/education-fundamentals/the-overlooked-importance-of-life-skills-in-curriculum.html), vocational training bridges the gap between theory and practice. It also ties in with [Practical Real World Skills in Curriculum](/education-fundamentals/practical-real-world-skills-in-curriculum.html), where we discuss the importance of skills like problem-solving and adaptability. 
 
 ## Bringing Parents Into The Picture
 
@@ -23,10 +23,10 @@ As parents, it is crucial to guide your children concerning their educational pa
 
 2. **Prioritize Their Interests** - Everyone has an innate tendency towards certain activities; these could be an indication of potential career paths. By honing these interests early on, it can encourage your child to pursue these avenues in their higher education.
 
-3. **Real-World Experience** - Encouraging internships or real-world learning experiences can help your child understand what they enjoy doing, and it can also strengthen their skills in the same area. Our previous blog post [The Importance of Real World Learning Experiences](/xedublog/experiential-learning/the-importance-of-real-world-learning-experiences.md) explores this further.
+3. **Real-World Experience** - Encouraging internships or real-world learning experiences can help your child understand what they enjoy doing, and it can also strengthen their skills in the same area. Our previous blog post [The Importance of Real World Learning Experiences](/xedublog/experiential-learning/the-importance-of-real-world-learning-experiences.html) explores this further.
 
-4. **Promote Critical Thinking** - As much as technical skills are necessary, soft skills like critical thinking, problem-solving and adaptability are equally important in every profession. As elucidated in [The Role of History in Shaping Critical Thinkers](/xedublog/education-fundamentals/the-role-of-history-in-shaping-critical-thinkers.md), nurturing such skills can help them across various occupations. 
+4. **Promote Critical Thinking** - As much as technical skills are necessary, soft skills like critical thinking, problem-solving and adaptability are equally important in every profession. As elucidated in [The Role of History in Shaping Critical Thinkers](/xedublog/education-fundamentals/the-role-of-history-in-shaping-critical-thinkers.html), nurturing such skills can help them across various occupations. 
 
-The job market is evolving at a phenomenal pace. As we dive into [Preparing Students for the Future Job Market](/xedublog/modern-challenges/preparing-students-for-the-future-job-market.md), keep in mind that constant learning and adaptation is the need of the hour. Remind your children that it's okay to pivot and change directions based on their interests and where they see themselves fit best.
+The job market is evolving at a phenomenal pace. As we dive into [Preparing Students for the Future Job Market](/xedublog/modern-challenges/preparing-students-for-the-future-job-market.html), keep in mind that constant learning and adaptation is the need of the hour. Remind your children that it's okay to pivot and change directions based on their interests and where they see themselves fit best.
 
 While the current education system is far from perfect, it is essential to keep the dialogue going. Vocational training is a significant piece of this ongoing conversation, promising a more inclusive, diverse, and future-ready approach to education. Parents, educators, policy-makers—all stakeholders must join forces to warp education into a potent tool for nurturing well-rounded, versatile and prepared individuals.

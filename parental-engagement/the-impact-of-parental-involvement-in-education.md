@@ -20,7 +20,7 @@ Here are some actionable techniques parents can use to become more involved:
 
 2. **Home Reading Program**: Implementing a regular reading program at home not only improves literacy skills but also nurtures a love for learning ([source](#)).
 
-3. **Open Communication with Teachers**: Regular communication with your child's teachers is key to staying updated on their progress and addressing any issues early. Check out our previous post on building a bridge for teacher-parent communication for tips (/xedublog/link](/parental-engagement/teacher-parent-communication-building-a-bridge.md)).
+3. **Open Communication with Teachers**: Regular communication with your child's teachers is key to staying updated on their progress and addressing any issues early. Check out our previous post on building a bridge for teacher-parent communication for tips (/xedublog/link](/parental-engagement/teacher-parent-communication-building-a-bridge.html)).
 
 4. **Volunteer at School**: Volunteering at school events, field trips, or allowing your child to see you in a mentoring role can enhance their learning experience.
 
@@ -37,10 +37,10 @@ Remember, your engagement in your child's education can leave a profound and las
 -----
 For further reading on this topic, here is a list of related posts:
 
-1. [Addressing the Digital Divide: Ensuring Equal Access](/xedublog/modern-challenges/addressing-the-digital-divide-ensuring-equal-access.md)
-2. [Ethics and Morality in Modern Education](/xedublog/education-fundamentals/ethics-and-morality-in-modern-education.md)
-3. [The Role of Community in Supporting Struggling Students](/xedublog/community-engagement/the-role-of-community-in-supporting-struggling-students.md)
-4. [The Challenge of Addressing Special Educational Needs](/xedublog/education-fundamentals/the-challenge-of-addressing-special-educational-needs.md)
+1. [Addressing the Digital Divide: Ensuring Equal Access](/xedublog/modern-challenges/addressing-the-digital-divide-ensuring-equal-access.html)
+2. [Ethics and Morality in Modern Education](/xedublog/education-fundamentals/ethics-and-morality-in-modern-education.html)
+3. [The Role of Community in Supporting Struggling Students](/xedublog/community-engagement/the-role-of-community-in-supporting-struggling-students.html)
+4. [The Challenge of Addressing Special Educational Needs](/xedublog/education-fundamentals/the-challenge-of-addressing-special-educational-needs.html)
 
 -----
-Stay tuned for our next post focusing on the ever-evolving role of technology in modern education (/xedublog/link](/digital-transformation/the-role-of-technology-in-modern-education.md)). We welcome your thoughts, concerns, and feedback in the discussion section below.
+Stay tuned for our next post focusing on the ever-evolving role of technology in modern education (/xedublog/link](/digital-transformation/the-role-of-technology-in-modern-education.html)). We welcome your thoughts, concerns, and feedback in the discussion section below.

@@ -8,7 +8,7 @@ The digital divide refers to the gap between those who have easy access to compu
 
 ## The Impact on Learning & Education
 
-This unequal access to digital resources creates a disparity in the educational opportunities available to students. In this [previous post](/xedublog/modern-challenges/addressing-the-digital-divide-ensuring-equal-access.md), we discussed how the lack of digital resources can hinder a student's academic growth. It may limit their research capabilities, challenge the completion of homework assignments, and lower their overall academic achievement.
+This unequal access to digital resources creates a disparity in the educational opportunities available to students. In this [previous post](/xedublog/modern-challenges/addressing-the-digital-divide-ensuring-equal-access.html), we discussed how the lack of digital resources can hinder a student's academic growth. It may limit their research capabilities, challenge the completion of homework assignments, and lower their overall academic achievement.
 
 ## How Can We Bridge the Digital Divide?
 
@@ -24,7 +24,7 @@ Many public libraries provide free computer and internet access. Encourage your 
 
 #### 3. Online Safety Education
 
-Educate your children about the potential dangers of the internet. Teach them to protect their personal information and to be respectful digital citizens. You can refer to our [post regarding online safety](/xedublog/digital-transformation/social-medias-impact-on-teens.md) for more information and guidance.
+Educate your children about the potential dangers of the internet. Teach them to protect their personal information and to be respectful digital citizens. You can refer to our [post regarding online safety](/xedublog/digital-transformation/social-medias-impact-on-teens.html) for more information and guidance.
 
 #### 4. Collaborate With Teachers
 
@@ -34,6 +34,6 @@ Collaborate with your child's teachers to understand the digital tools being use
 
 Promote digital literacy at home. Encourage your child to use the internet for productive reasons, such as researching homework topics or learning new skills.
 
-The problem of the digital divide may seem daunting, but through collective effort, we can begin to bridge the gap. For further reading on how you can support your child's learning journey, explore our previous posts on topics such as the [role of technology in education](/xedublog/digital-transformation/the-role-of-technology-in-modern-education.md), addressing [cyberbullying](/modern-challenges/the-challenge-of-cyberbullying-in-the-digital-age.md), and more.
+The problem of the digital divide may seem daunting, but through collective effort, we can begin to bridge the gap. For further reading on how you can support your child's learning journey, explore our previous posts on topics such as the [role of technology in education](/xedublog/digital-transformation/the-role-of-technology-in-modern-education.html), addressing [cyberbullying](/modern-challenges/the-challenge-of-cyberbullying-in-the-digital-age.html), and more.
 
 It is vital that in our step towards modern solutions, we ensure no student is left behind because of a lack of resources. Let's work towards a future where every child, irrespective of their socio-economic status, has equal access to the plethora of growing educational opportunities.
