@@ -1,6 +1,6 @@
 # The Debate on Standardized Testing: A Double-Edged Sword of Modern Education
 
-In the [*the-overlooked-importance-of-life-skills-in-curriculum*](/xedublogv2/education-fundamentals/the-overlooked-importance-of-life-skills-in-curriculum.md) blog post, we majorly focused on the essential life skills that are often neglected in our traditional education system. As important as instilling life skills is in our children, another critical element that merits examination and discussion is standardized testing.
+In the [*the-overlooked-importance-of-life-skills-in-curriculum*](/xedublog/education-fundamentals/the-overlooked-importance-of-life-skills-in-curriculum.md) blog post, we majorly focused on the essential life skills that are often neglected in our traditional education system. As important as instilling life skills is in our children, another critical element that merits examination and discussion is standardized testing.
 
 Standardized testing has been a cornerstone of modern education systems globally. Yet, it remains one of the most divisive aspects of educational policies among parents, educators, and policymakers. In this post, we aim to delve into the pros and cons of standardized testing, its impact on students, and alternative assessment methods that can offer a more holistic evaluation of a student's capabilities.
 
@@ -20,7 +20,7 @@ Standardized testing has been a cornerstone of modern education systems globally
 
 ## Effect on Students
 
-The emphasis on standardized tests creates an environment where students' worth is judged primarily on their test scores. Continuous testing can lead to test fatigue, with students feeling demotivated and under pressure. On the other hand, high stakes tied to these tests can lead to an unhealthy obsession with grades, as outlined in our [*the-stress-of-homework-balancing-work-and-play*](/xedublogv2/modern-challenges/the-stress-of-homework-balancing-work-and-play.md) post.
+The emphasis on standardized tests creates an environment where students' worth is judged primarily on their test scores. Continuous testing can lead to test fatigue, with students feeling demotivated and under pressure. On the other hand, high stakes tied to these tests can lead to an unhealthy obsession with grades, as outlined in our [*the-stress-of-homework-balancing-work-and-play*](/xedublog/modern-challenges/the-stress-of-homework-balancing-work-and-play.md) post.
 
 ## Alternative Assessment Methods 
 
@@ -28,7 +28,7 @@ Given the limitation of standardized tests, many educators advocate for a more h
 
 Coupling these alternative methods with standardized tests could offer a better academic assessment, focusing not just on the memory or recall of facts but also on understanding, application, and aptitude for intellectual work.
 
-As parents, understanding the current education system, its pitfalls, and possible improvements is vital for advocating for your child's educational needs. It's essential to maintain an open dialogue with educators to ensure your child is not falling victim to a flawed system. Check out our [*teacher-parent-communication-building-a-bridge*](/xedublogv2/parental-engagement/teacher-parent-communication-building-a-bridge.md) post for more tips on building this essential connection. 
+As parents, understanding the current education system, its pitfalls, and possible improvements is vital for advocating for your child's educational needs. It's essential to maintain an open dialogue with educators to ensure your child is not falling victim to a flawed system. Check out our [*teacher-parent-communication-building-a-bridge*](/xedublog/parental-engagement/teacher-parent-communication-building-a-bridge.md) post for more tips on building this essential connection. 
 
 Children must understand that while tests are important, they're not the only measure of their abilities. After all, life is the greatest test, and it doesn't come with a standardized answer sheet. 
 

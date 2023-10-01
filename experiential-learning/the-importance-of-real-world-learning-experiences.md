@@ -2,7 +2,7 @@
 
 As parents, we all worry about our children's education. Will they retain information from a text better, or will they understand concepts more profoundly if they see them happening in the world around them? Traditional methods of teaching generally revolve around classroom lectures and textbook exercises. However, a new approach to teaching is making way - experiential learning or learning through real-world experiences. 
 
-In this blog post, we'll be discussing the value of field trips, internships, and real-world experiences in enriching the educational journey and providing practical insights that can't be gained from a textbook alone. This topic is an extension to a previous post exploring the [gap between academic knowledge and practical application](/xedublogv2/education-fundamentals/practical-real-world-skills-in-curriculum.md), emphasizing the importance of skills like problem-solving, communication, and adaptability.
+In this blog post, we'll be discussing the value of field trips, internships, and real-world experiences in enriching the educational journey and providing practical insights that can't be gained from a textbook alone. This topic is an extension to a previous post exploring the [gap between academic knowledge and practical application](/xedublog/education-fundamentals/practical-real-world-skills-in-curriculum.md), emphasizing the importance of skills like problem-solving, communication, and adaptability.
 
 ## Experiential Learning
 
@@ -18,7 +18,7 @@ As a parent, you can also organize simple field trips on weekends. A trip to the
 
 ### Internships
 
-Internships are another form of experiential learning that usually comes into play during higher education. They provide practical industry experience, helping students connect the dots between what they learn in school and what the workplace requires. Parents can support younger children with similar experiences through job-shadowing programs or summer camps like the ones discussed in our previous post on [the benefits of summer camps in skill development](/xedublogv2/holistic-development/the-role-of-summer-camps-in-skill-development.md).
+Internships are another form of experiential learning that usually comes into play during higher education. They provide practical industry experience, helping students connect the dots between what they learn in school and what the workplace requires. Parents can support younger children with similar experiences through job-shadowing programs or summer camps like the ones discussed in our previous post on [the benefits of summer camps in skill development](/xedublog/holistic-development/the-role-of-summer-camps-in-skill-development.md).
 
 ### Real-world Experiences
 
@@ -26,15 +26,15 @@ Finally, real-world experiences are the most flexible and diverse form of experi
 
 ## Lost Opportunities in the Current Education System
 
-Unfortunately, many parents are unhappy with the current education system, which often prioritizes theoretical knowledge over real-world experiences. As discussed in our previous post on [overcrowded classrooms](/xedublogv2/modern-challenges/the-challenge-of-large-classroom-sizes.md), students may not receive ample opportunities for experiential learning due to a lack of resources or misplaced priorities.
+Unfortunately, many parents are unhappy with the current education system, which often prioritizes theoretical knowledge over real-world experiences. As discussed in our previous post on [overcrowded classrooms](/xedublog/modern-challenges/the-challenge-of-large-classroom-sizes.md), students may not receive ample opportunities for experiential learning due to a lack of resources or misplaced priorities.
 
 ## Actionable Tips for Parents
 
 While the systemic shift towards more experiential learning may take time, here are a few suggestions for parents to provide children with real-world learning opportunities at home:
 
-1. **Dedicate Time for Creative and Unstructured Play** – As we explored in our post on the [role of unstructured play](/xedublogv2/holistic-development/the-role-of-play-why-unstructured-time-matters.md), playtime isn’t just fun; it’s also a valuable learning experience. Encourage your child to explore, create, and learn from play. 
+1. **Dedicate Time for Creative and Unstructured Play** – As we explored in our post on the [role of unstructured play](/xedublog/holistic-development/the-role-of-play-why-unstructured-time-matters.md), playtime isn’t just fun; it’s also a valuable learning experience. Encourage your child to explore, create, and learn from play. 
 2. **Plan Educational Visits** – Make the most of the weekends and school holidays by planning visits to museums, science centers, nature reserves, factories, etc. This will not only supplement textbook learning but make it more exciting and memorable.
 3. **Involve Children in Daily Tasks** – Turn everyday chores into learning experiences. For example, let them help you with cooking or gardening, explaining steps and processes along the way.
-4. **Encourage Extracurricular Activities** – Enroll your child in available extracurricular activities that interest them. These activities, as explained in our post on [their role beyond academics](/xedublogv2/holistic-development/the-role-of-extracurricular-activities-beyond-academics.md), can significantly contribute to your child's holistic development.
+4. **Encourage Extracurricular Activities** – Enroll your child in available extracurricular activities that interest them. These activities, as explained in our post on [their role beyond academics](/xedublog/holistic-development/the-role-of-extracurricular-activities-beyond-academics.md), can significantly contribute to your child's holistic development.
 
 Experiential learning builds critical thinking, problem-solving abilities, and boosts self-confidence. By bringing real-world experiences into our children's learning process, we are better preparing them for the future – a world that values skills and talents as much as, if not more than, theoretical knowledge. Let's strive together to make education enriching and enjoyable for our children.
